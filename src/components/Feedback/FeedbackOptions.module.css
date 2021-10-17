@@ -1,0 +1,4 @@
+.optionsBtn {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.statisticList {
+  display: flex;
+  justify-content: space-between;
+}
+.statisticText {
+  font-size: 25px;
+}
